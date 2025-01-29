@@ -1,6 +1,6 @@
 # TutorCove
 
-## **CJI-SPI-CCC Tutorial: Ocean temperature evolution in Crystal Cove
+## CJI-SPI-CCC Tutorial: Ocean temperature evolution in Crystal Cove
 by Mariana Torres and Julia Lenhardt
 
 ---
